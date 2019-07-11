@@ -7,9 +7,13 @@
 
 ## This project is based in the official DeepNude python source-code
 
+## Description
+
+Create NSFW, Nude images from common images, using Aritificial Inteligence Pix2pix Algorithm using you CUDA GPU or only your CPU. Compatible with Windows, Mac and Linux.
+
 ## Benefits
 
-- Process images fast from Unix Terminal or Windows CMD.
+- Process images fast from Unix/Mac Terminal or Windows Cmd.
 - Outputs with no Watermark.
 - Interface Modifications for Easy to Use.
 - Free to use and distribute.
