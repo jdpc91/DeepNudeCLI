@@ -1,0 +1,7 @@
+numpy
+Pillow
+setuptools
+six
+pytorch
+torchvision
+wheel
