@@ -71,7 +71,7 @@ Please, before opening any issue, check if you enviroment meet all requirements.
 
 ### if you use windows and anaconda, and have difficulty installing pytorch, perform the following commands:
 
-```
+```bash
 conda install -c peterjc123 pytorch 
 conda install -c pytorch torchvision 
 ```
