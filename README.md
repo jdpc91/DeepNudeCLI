@@ -36,7 +36,7 @@ Create NSFW, Nude images from common images, using Aritificial Inteligence Pix2p
 
 For first use, after make sure that you have all needed modules installed, execute:
 
-```
+```bash
 git clone https://github.com/Yuagilvy/DeepNudeCLI.git
 cd DeepNudeCLI
 python nude.py -i input.jpg
