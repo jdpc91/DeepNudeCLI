@@ -32,9 +32,13 @@ Create NSFW, Nude images from common images, using Aritificial Inteligence Pix2p
 - torchvision
 - wheel
 
+## Follow the tutorial at README.MD file in checkpoints folder to download the checkpoint files from Torrent Protocol.
+
+After cloning this repository, you need to download the checkpoint files from the torrent file in the "checkpoints" folder. This is required for DeepNudeCLI to work correctly.
+
 ## First Use
 
-For first use, after make sure that you have all needed modules installed, execute:
+For first use, after make sure that you have all needed modules installed, and Checkpoint files located in "checkpoints" folder, execute:
 
 ```bash
 git clone https://github.com/Yuagilvy/DeepNudeCLI.git
