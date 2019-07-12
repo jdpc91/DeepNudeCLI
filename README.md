@@ -43,6 +43,7 @@ For first use, after make sure that you have all needed modules installed, and C
 ```bash
 git clone https://github.com/Yuagilvy/DeepNudeCLI.git
 cd DeepNudeCLI
+pip install -r requirements.txt
 python nude.py -i input.jpg
 ```
 The output will be saved as "output.jpg"
