@@ -40,7 +40,7 @@ def _process(i_image, o_image, use_gpu):
         elif "runtime error" in ex:
             print("[-] Error: CUDA Runtime not found, Disable the '--use-gpu' option!")
         else:
-            print("[-] An error as occured when trying to process the image, check the logs file!")
+            print("[-] Error occured when trying to process the image: %s" % ex)
             with open("logs.txt", "a") as f:
                 f.write("[-] Error: %s\n" % ex)
         sys.exit(1)
