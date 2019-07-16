@@ -4,7 +4,7 @@
 [![Torch 1.1](https://img.shields.io/badge/torch-1.1-blue.svg)](https://shields.io/)
 [![DeepNude 2.0](https://img.shields.io/badge/deepnude-2.0-blue.svg)](https://shields.io/)
 
-## Last Update: 12/07/2019
+## Last Update: 16/07/2019
 
 ## This project is based in the official DeepNude python source-code
 
